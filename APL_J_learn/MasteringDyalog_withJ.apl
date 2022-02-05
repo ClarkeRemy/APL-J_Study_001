@@ -237,8 +237,8 @@ Where PlacedIn List
   Area ← 17 50 59 84 89
   Discount ← 9 8 6 5 4 2
 ⍝ D =: 84                 NB, J
-⍝ Area ← 17 50 59 84 89   NB, J
-⍝ Discount ← 9 8 6 5 4 2  NB, J
+⍝ Area =: 17 50 59 84 89   NB, J
+⍝ Discount =: 9 8 6 5 4 2  NB, J
 
   D ∊ Area               ⍝ D e.Area   NB. J
   Area ⍳ D               ⍝ Area i. D  NB. J
